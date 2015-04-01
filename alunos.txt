@@ -1,2 +1,4 @@
 lucas
 daniel
+thiago
+mateus
